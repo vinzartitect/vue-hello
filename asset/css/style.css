@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgb(40, 40, 40);
+}
+
+.color_white {
+    color: white;
+}
+
+.font_big {
+    font-size: 3em;
+}
+
+.image_main {
+    width: 100%;
+}
